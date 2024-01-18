@@ -7,7 +7,7 @@ type NewTodoProps = {
 
 export const NewTodo: React.FC<NewTodoProps> = props => {
 
-useEffect()
+
 
 	const textInputRef = useRef<HTMLInputElement>(null);
 
